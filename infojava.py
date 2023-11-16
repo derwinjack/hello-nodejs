@@ -43,3 +43,4 @@ coursePlanner.setPlanningStrategy(new FastestGraduationStrategy());
 
 // Generate the course plan
 coursePlanner.generateCoursePlan(student, programRequirements, offeredCourses);
+
